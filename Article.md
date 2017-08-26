@@ -9,6 +9,7 @@ Is he kiddin? Well I am not (just be patient enough to reach the end). Arduino i
 Well the amount of abstraction Arduino offers hides vital details of the micro-controller that powers the board. "*It Kills the Spirit of Embedded Programming.*" And thus people tend to move over to MSP430 and PIC development boards without appreciating the power of AVR controllers (Yup it's the family of controllers that power Arduino UNO, Mega, Nano, Mini and Duemilanove). And while people do use ATMEL's (now owned by Microchip) AVR Studio to program these boards, its yet another IDE meant only for AVRs. Arduino on the other hand with proper libraries and compiler integration acts as a stand alone IDE for micro-controllers by different manufacturers like the popular ESP8266. *Arduino does have advantages over its primitive alternatives.*
 ### What's my point then?
 My point is that Arduino is good for building projects quickly and hassle-free but it does not let's the user learn the details of the micro-controller. The user friedly libraries are __not so learner friendly__ because they make you lazy. Every one using Arduino be like "*hmmm so I need to control a servo(or anything) well I can use timers in arduino but wait...*"
+
 #include <servo.h> 
 "*Done!*"
 So to learn Arduino one needs to stop using the user-friendly abstract fuctions of Arduino and get down a level deeper into the realm of Embedded C coding. And to one's comfort Arduino IDE supports it out of the box (right after installation? :stuck_out_tongue:). 
