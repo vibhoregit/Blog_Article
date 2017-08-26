@@ -1,5 +1,5 @@
 # You don't really know Arduino  
-Is he kiddin? Well I am not (just be patient enough to read till the end). Arduino is a very good platform to start making **witty** electronics projects instead of dumb L.E.D blinking circuits (apologies to the 555) but after some time electronic hobbyists loose interest due to one or more of the following reasons:
+Is he kiddin? Well I am not (just be patient enough to reach the end). Arduino is a very good platform to start making **witty** electronics projects instead of dumb L.E.D blinking circuits (apologies to the 555) but after some time electronic hobbyists loose interest due to one or more of the following reasons:
   - It is too simple
   - It's performance is limited
   - It does not feels like embedded programming
