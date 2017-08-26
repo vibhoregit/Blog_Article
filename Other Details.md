@@ -1,8 +1,7 @@
 
 Author: Vibhore Jain
 
-The cool statement I'd like below my name:
-"Everyone is special" - a classic example of Oxymoron...
+The cool statement I'd like below my name: "Everyone is special" - a classic example of Oxymoron...
 
 mail id: jainvibhore1997@gmail.com
 
